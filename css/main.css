@@ -170,6 +170,7 @@ section.san-francisco {
     width: 40%;
     margin-left: -100%;
     top: 27.5%;
+    z-index: 2;
 }
 
 .postcard {
@@ -243,8 +244,16 @@ section.san-francisco {
 
 .blue-bg {
   position: absolute;
-  top: 200%;
-  z-index: 10;
+  width: 120%;
+  height: 75%;
+  top: 85%;
+  margin-left: -10%;
+  background: #0063F7;
+}
+
+.blue-content {
+  position: absolute;
+  top: 100%;
 }
 
 .absolute {
