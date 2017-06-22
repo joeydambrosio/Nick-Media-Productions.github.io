@@ -298,7 +298,7 @@ section.san-francisco {
   top: 0;
   right: 0;
   margin-top: -300px;
-  margin-right: -300px;
+  margin-right: 0px;
   z-index: -10;
 }
 .gloss-small {
@@ -306,7 +306,7 @@ section.san-francisco {
   -moz-box-sizing: content-box;
   box-sizing: content-box;
   width: 400px;
-  height: 1500px;
+  height: 1700px;
   border: none;
   font: normal 100%/normal Arial, Helvetica, sans-serif;
   color: rgba(0,0,0,1);
@@ -323,7 +323,7 @@ section.san-francisco {
   top: 0;
   right: 0;
   margin-top: -700px;
-  margin-right: -200px;
+  margin-right: 0px;
   z-index: -10;
 }
 .lg-green {
