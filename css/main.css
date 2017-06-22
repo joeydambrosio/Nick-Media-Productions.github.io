@@ -178,6 +178,7 @@ section.san-francisco {
   width: 40%;
   margin-left: -25%;
   top: 75%;
+  z-index: 2;
 }
 
 .drink {
@@ -185,6 +186,7 @@ section.san-francisco {
   width: 30%;
   margin-left: -10%;
   top: 45%;
+  z-index: 2;
 }
 
 .yellow {
@@ -251,13 +253,13 @@ section.san-francisco {
   position: absolute;
   width: 100%;
   height: 800px;
-  top: 1100px;
+  top: 900px;
   background: #0063F7;
 }
 
 .blue-content {
   position: absolute;
-  top: 1300px;
+  top: 1000px;
 }
 
 .absolute {
