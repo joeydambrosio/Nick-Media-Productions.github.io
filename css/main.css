@@ -253,15 +253,11 @@ section.san-francisco {
   height: 800px;
   top: 1100px;
   background: #0063F7;
-  z-index: 10;
-  -o-text-overflow: clip;
-  text-overflow: clip;
 }
 
 .blue-content {
   position: absolute;
   top: 1300px;
-  z-index: 10;
 }
 
 .absolute {
